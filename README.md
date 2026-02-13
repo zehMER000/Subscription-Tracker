@@ -2,8 +2,6 @@
 
 A modern, sleek subscription tracking application built with Next.js. Track, manage, and optimize all your subscriptions in one beautiful dashboard.
 
-![Subtrack Dashboard](https://via.placeholder.com/800x400?text=Subtrack+Dashboard)
-
 ## Features
 
 ### Core Functionality
